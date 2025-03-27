@@ -1,0 +1,6 @@
+[submodule "ellishape_cli"]
+	path = ellishape_cli
+	url = https://github.com/wpwupingwp/ellishape_cli
+[submodule "ellishape_gui"]
+	path = ellishape_gui
+	url = https://github.com/jessieyang567/ellishape_gui
