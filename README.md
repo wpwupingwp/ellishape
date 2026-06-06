@@ -353,10 +353,9 @@ software (DiaOutline) for elliptic Fourier analysis application in
 morphometric studies. Applications in Plant Sciences, 6(12): e01204.
 https:// doi.org/10.1002/aps3.1204
 
-Wu, H.,  Yang, J. J.,  Li, C. Q.,  Ran, J. H.,  Peng, R. H., &
-Wang, X. Q. (2024). Reliable and superior elliptic fourier descriptor
-normalization and its application software ellishape with efficient 
-image processing.
+Wu, H., Yang, J.-J., Wu, P., Li, C.-Q., Ran, J.-H., Peng, R.-H., & Wang, X.-Q. (2026). 
+Complete elliptic Fourier descriptor normalization and its application in quantitative 
+morphological analysis. Methods in Ecology and Evolution, 00, 1–12. https://doi.org/10.1111/2041-210x.70330
 
 
 
